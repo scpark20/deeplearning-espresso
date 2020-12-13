@@ -24,10 +24,10 @@ deeplearning-espresso (Bayesian Statistics for Deep Learning)
 ## Day2
 
 #### K-means
-<img src='src/day2/pics/kmeans.png' width=800>
+<img src='src/day2/pics/kmeans.png' width=600>
 
 #### Gaussian Mixture Models
-<img src='src/day2/pics/gmm.png' width=800>
+<img src='src/day2/pics/gmm.png' width=600>
 
 #### Variational Gaussian Mixture Models
 <img src='src/day2/pics/vgmm.png' width=800>
