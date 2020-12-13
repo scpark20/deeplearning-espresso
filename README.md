@@ -13,10 +13,10 @@ deeplearning-espresso (Bayesian Statistics for Deep Learning)
 <img src='src/day1/pics/posterior update.png' width=800>
 
 #### Linear Regression
-<img src='src/day1/pics/linear regression.png' width=800>
+<img src='src/day1/pics/linear regression.png' width=400>
 
 #### Bayesian Linear Regression
-<img src='src/day1/pics/bayesian regression.png' width=800>
+<img src='src/day1/pics/bayesian regression.png' width=400>
 
 #### Bayesian Linear Regression (Boston Housing)
 <img src='src/day1/pics/boston.png' width=800>
@@ -33,10 +33,10 @@ deeplearning-espresso (Bayesian Statistics for Deep Learning)
 <img src='src/day2/pics/vgmm.png' width=800>
 
 #### Probabilistic PCA
-<img src='src/day2/pics/ppca.png' width=800>
+<img src='src/day2/pics/ppca.png' width=400>
 
 #### KL-Divergence
-<img src='src/day2/pics/kl.png' width=800>
+<img src='src/day2/pics/kl.png' width=400>
 
 #### Auto-Encoders
-<img src='src/day2/pics/ae.png' width=800>
+<img src='src/day2/pics/ae.png' width=400>
